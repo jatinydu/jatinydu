@@ -2,19 +2,19 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinydu&label=Profile%20views&color=0e75b6&style=flat" alt="jatinydu" /> </p>
 
-- 🔭 I’m currently working on **fyndwork - a micro internship platform for students**
+- 🔭 I’m currently working on **Earlyfound - company career page tracker**
 - 🌱 I’m currently learning **GenAi and Scalable Application Development**
 
 - 📫 How to reach me **jatinkyadu@gmail.com**
 - 📄 Know about my experiences **https://drive.google.com/file/d/14NWG-LogLAfLKl1JXHr08kZNJmr4b1NJ/view?usp=drive_link**
 
-<div> <a href="https://twitter.com/iamdev_jatin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jatin-yadu-168225217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://x.com/jatinydu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jatinydu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/jatinydu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:jatinkyadu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamdev_jatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="iamdev_jatin" height="30" width="40" /></a><a href="https://linkedin.com/in/jatin-yadu-168225217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jatin-yadu-168225217/" height="30" width="40" /></a></p>
+<a href="https://twitter.com/jatinydu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="jatinydu" height="30" width="40" /></a><a href="https://linkedin.com/in/jatin-yadu-168225217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jatin-yadu-168225217/" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
